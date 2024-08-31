@@ -1,0 +1,11 @@
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\bin\Debug\net6.0\LoanApp.Data.deps.json
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\bin\Debug\net6.0\LoanApp.Data.dll
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\bin\Debug\net6.0\LoanApp.Data.pdb
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\LoanApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\LoanApp.Data.AssemblyInfoInputs.cache
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\LoanApp.Data.AssemblyInfo.cs
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\LoanApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\LoanApp.Data.dll
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\refint\LoanApp.Data.dll
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\LoanApp.Data.pdb
+C:\Users\Cess\source\repos\LoanApp\LoanApp.Data\obj\Debug\net6.0\ref\LoanApp.Data.dll
