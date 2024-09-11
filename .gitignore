@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LoanApp/obj/Debug/net6.0/LoanApp.AssemblyInfo.cs
+/LoanApp/obj/Debug/net6.0/LoanApp.AssemblyInfoInputs.cache
+/LoanApp.Data/obj/Debug/net6.0/LoanApp.Data.AssemblyInfo.cs
+/LoanApp.Data/obj/Debug/net6.0/LoanApp.Data.AssemblyInfoInputs.cache
+/LoanApp.Helpers/obj/Debug/net6.0/LoanApp.Helpers.AssemblyInfo.cs
+/LoanApp.Helpers/obj/Debug/net6.0/LoanApp.Helpers.AssemblyInfoInputs.cache
+/LoanApp.Repositories/obj/Debug/net6.0/LoanApp.Repositories.AssemblyInfo.cs
+/LoanApp.Repositories/obj/Debug/net6.0/LoanApp.Repositories.AssemblyInfoInputs.cache
+/LoanApp.Services/obj/Debug/net6.0/LoanApp.Services.AssemblyInfo.cs
+/LoanApp.Services/obj/Debug/net6.0/LoanApp.Services.AssemblyInfoInputs.cache
